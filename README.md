@@ -14,7 +14,7 @@ Passinate about learning new technologies and low code/no code tools. Love Open-
 
 - 🌱 I’m currently learning **React, Redux, Networking**
 
-- ✨ Contributing to **[Amplication](https://github.com/amplication/amplication)**
+<!-- - ✨ Contributing to **[Amplication](https://github.com/amplication/amplication)** -->
 
 - 🔥 Interested in Mern and Jam Stack
 
