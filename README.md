@@ -24,7 +24,7 @@ Passinate about learning new technologies and low code/no code tools. Love Open-
 
 - 💬 Ask me about **PHP, React, Node, Laravel**
 
-- 📫 Reach out to me - **[Linkedin](https://www.linkedin.com/in/sebabrata-kundu-1079)**
+- 📫 Reach out to me - **[Linkedin](https://www.linkedin.com/in/sebabratakundu)**
 
 ### 🥇 My Tech Stack
 
