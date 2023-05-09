@@ -12,7 +12,7 @@ Passinate about learning new technologies and low code/no code tools. Love Open-
 ### ⏳ Now
 - 🔭 I’m currently working on this project [Link Previewer](https://github.com/sebabratakundu/link_previwer)
 
-- 🌱 I’m currently learning **React, Redux, Networking**
+- 🌱 I’m currently learning **Next JS, Node JS under the hood**
 
 <!-- - ✨ Contributing to **[Amplication](https://github.com/amplication/amplication)** -->
 
@@ -22,7 +22,7 @@ Passinate about learning new technologies and low code/no code tools. Love Open-
 
 - 👨‍💻 All of my projects are available at [sebabratakundu.com](https://sebabratakundu.com/)
 
-- 💬 Ask me about **PHP, React, Node, Laravel**
+- 💬 Ask me about **React, Node, PHP, Laravel**
 
 - 📫 Reach out to me - **[Linkedin](https://www.linkedin.com/in/sebabratakundu)**
 
