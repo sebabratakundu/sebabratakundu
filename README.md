@@ -2,7 +2,6 @@
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://sebabratakundu.com/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebabratakundu)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 
 
 ### 🚀 About Me
@@ -10,11 +9,8 @@ I'm a full stack developer. Currently working as a software developer - PHP at C
 Passinate about learning new technologies and low code/no code tools. Love Open-Source 👩‍💻
 
 ### ⏳ Now
-- 🔭 I’m currently working on this project [Link Previewer](https://github.com/sebabratakundu/link_previwer)
 
 - 🌱 I’m currently learning **Next JS, Node JS under the hood**
-
-<!-- - ✨ Contributing to **[Amplication](https://github.com/amplication/amplication)** -->
 
 - 🔥 Interested in Mern and Jam Stack
 
